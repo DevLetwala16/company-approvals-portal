@@ -1,9 +1,7 @@
-numpy==2.2.3
-pandas==2.2.3
-Pillow==11.1.0
-pymongo==4.11.1
-python-dotenv==1.0.1
-qrcode==8.0
-reportlab==4.3.1
-Requests==2.32.3
-streamlit==1.42.0
+streamlit
+pandas<3.0.0
+pymongo
+python-dotenv
+qrcode
+reportlab
+requests
